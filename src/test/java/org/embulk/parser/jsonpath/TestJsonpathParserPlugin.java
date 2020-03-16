@@ -261,10 +261,10 @@ public class TestJsonpathParserPlugin
 
         transaction(config, fileInput(
                 "[",
-                "{},",
-                "{\"_c0\":null,\"_c1\":null,\"_c2\":null},",
-                "{\"_c3\":null,\"_c4\":null,\"_c5\":null},",
-                "{}",
+                // "{},",
+                // "{\"_c0\":null,\"_c1\":null,\"_c2\":null},",
+                // "{\"_c3\":null,\"_c4\":null,\"_c5\":null},",
+                // "{}",
                 "]"
         ));
 
